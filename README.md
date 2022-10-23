@@ -36,7 +36,7 @@ Whenever the bot detect sexist statement it automatically provide warning react 
 
 ## Demo
 
-Here is a demo of our discord bot : 
+Here is a demo of my discord bot : 
 
 
 
