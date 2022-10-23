@@ -44,6 +44,9 @@ Here is a demo of our discord bot :
 
 
 
+https://user-images.githubusercontent.com/104271784/197368783-9d235518-1db2-4fb9-ae60-2069718f0ed7.mp4
+
+
 
 
 
